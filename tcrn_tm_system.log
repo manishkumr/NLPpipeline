@@ -1,0 +1,419 @@
+2016-01-14 16:01:30,604 INFO tcrn.tbi.tm.test.Test [main] processing pg_0001.txt
+2016-01-14 16:03:52,748 INFO tcrn.tbi.tm.test.Test [main] processing pg_0001.txt
+2016-01-14 16:05:38,456 INFO tcrn.tbi.tm.test.Test [main] processing pg_0001.txt
+2016-01-14 16:05:38,646 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:05:39,426 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:10:34,784 INFO tcrn.tbi.tm.test.Test [main] processing pg_0001.txt
+2016-01-14 16:10:34,964 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:10:35,734 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:11:27,480 INFO tcrn.tbi.tm.test.Test [main] processing pg_0001.txt
+2016-01-14 16:11:27,660 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:11:28,477 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:12:44,295 INFO tcrn.tbi.tm.test.Test [main] processing pg_0001.txt
+2016-01-14 16:12:44,479 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:12:45,238 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:12:45,279 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:13:25,616 INFO tcrn.tbi.tm.test.Test [main] processing pg_0001.txt
+2016-01-14 16:13:25,796 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:13:26,515 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:13:26,566 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:35,691 INFO tcrn.tbi.tm.test.Test [main] processing pg_0001.txt
+2016-01-14 16:14:35,871 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:36,632 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:36,685 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:37,105 INFO tcrn.tbi.tm.test.Test [main] processing pg_0002.txt
+2016-01-14 16:14:37,285 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:37,945 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:38,006 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:38,405 INFO tcrn.tbi.tm.test.Test [main] processing pg_0003.txt
+2016-01-14 16:14:38,505 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:39,000 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:39,021 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:39,285 INFO tcrn.tbi.tm.test.Test [main] processing pg_0004.txt
+2016-01-14 16:14:39,375 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:39,864 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:39,874 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:40,225 INFO tcrn.tbi.tm.test.Test [main] processing pg_0005.txt
+2016-01-14 16:14:40,405 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:40,885 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:40,945 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:41,473 INFO tcrn.tbi.tm.test.Test [main] processing pg_0006.txt
+2016-01-14 16:14:41,573 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:42,063 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:42,073 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:42,347 INFO tcrn.tbi.tm.test.Test [main] processing pg_0007.txt
+2016-01-14 16:14:42,457 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:42,929 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:42,939 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:43,220 INFO tcrn.tbi.tm.test.Test [main] processing pg_0008.txt
+2016-01-14 16:14:43,340 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:43,800 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:43,810 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:44,071 INFO tcrn.tbi.tm.test.Test [main] processing pg_0009.txt
+2016-01-14 16:14:44,155 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:44,634 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:44,644 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:44,908 INFO tcrn.tbi.tm.test.Test [main] processing pg_0010.txt
+2016-01-14 16:14:45,038 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:45,568 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:45,598 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:45,888 INFO tcrn.tbi.tm.test.Test [main] processing pg_0011.txt
+2016-01-14 16:14:45,988 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:46,559 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:46,579 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:46,829 INFO tcrn.tbi.tm.test.Test [main] processing pg_0012.txt
+2016-01-14 16:14:46,939 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:47,469 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:47,510 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:47,790 INFO tcrn.tbi.tm.test.Test [main] processing pg_0013.txt
+2016-01-14 16:14:47,910 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:48,390 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:48,420 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:48,793 INFO tcrn.tbi.tm.test.Test [main] processing pg_0014.txt
+2016-01-14 16:14:48,933 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:49,403 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:49,443 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:50,015 INFO tcrn.tbi.tm.test.Test [main] processing pg_0015.txt
+2016-01-14 16:14:50,215 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:50,678 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:50,728 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:51,039 INFO tcrn.tbi.tm.test.Test [main] processing pg_0016.txt
+2016-01-14 16:14:51,149 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:51,630 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:51,650 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:51,910 INFO tcrn.tbi.tm.test.Test [main] processing pg_0017.txt
+2016-01-14 16:14:52,210 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:52,704 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:52,804 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:53,174 INFO tcrn.tbi.tm.test.Test [main] processing pg_0018.txt
+2016-01-14 16:14:53,294 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:53,849 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:53,859 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:54,147 INFO tcrn.tbi.tm.test.Test [main] processing pg_0019.txt
+2016-01-14 16:14:54,267 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:54,827 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:54,858 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:55,220 INFO tcrn.tbi.tm.test.Test [main] processing pg_0020.txt
+2016-01-14 16:14:55,340 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:55,811 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:55,831 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:56,102 INFO tcrn.tbi.tm.test.Test [main] processing pg_0021.txt
+2016-01-14 16:14:56,252 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:56,723 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:56,753 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:57,024 INFO tcrn.tbi.tm.test.Test [main] processing pg_0022.txt
+2016-01-14 16:14:57,134 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:57,607 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:57,627 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:57,897 INFO tcrn.tbi.tm.test.Test [main] processing pg_0023.txt
+2016-01-14 16:14:57,997 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:58,477 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:58,497 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:58,759 INFO tcrn.tbi.tm.test.Test [main] processing pg_0024.txt
+2016-01-14 16:14:58,869 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:14:59,349 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:14:59,379 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:14:59,670 INFO tcrn.tbi.tm.test.Test [main] processing pg_0025.txt
+2016-01-14 16:14:59,770 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:00,260 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:00,270 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:00,510 INFO tcrn.tbi.tm.test.Test [main] processing pg_0026.txt
+2016-01-14 16:15:00,610 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:01,070 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:01,090 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:01,354 INFO tcrn.tbi.tm.test.Test [main] processing pg_0027.txt
+2016-01-14 16:15:01,456 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:01,936 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:01,966 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:02,267 INFO tcrn.tbi.tm.test.Test [main] processing pg_0028.txt
+2016-01-14 16:15:02,367 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:02,847 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:02,867 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:03,146 INFO tcrn.tbi.tm.test.Test [main] processing pg_0029.txt
+2016-01-14 16:15:03,237 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:03,727 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:03,737 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:03,998 INFO tcrn.tbi.tm.test.Test [main] processing pg_0030.txt
+2016-01-14 16:15:04,098 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:04,568 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:04,598 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:04,873 INFO tcrn.tbi.tm.test.Test [main] processing pg_0031.txt
+2016-01-14 16:15:04,973 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:05,473 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:05,493 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:05,803 INFO tcrn.tbi.tm.test.Test [main] processing pg_0032.txt
+2016-01-14 16:15:05,893 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:06,406 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:06,426 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:06,746 INFO tcrn.tbi.tm.test.Test [main] processing pg_0033.txt
+2016-01-14 16:15:06,846 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:07,318 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:07,339 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:07,631 INFO tcrn.tbi.tm.test.Test [main] processing pg_0034.txt
+2016-01-14 16:15:07,741 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:08,196 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:08,216 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:08,487 INFO tcrn.tbi.tm.test.Test [main] processing pg_0035.txt
+2016-01-14 16:15:08,591 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:09,061 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:09,081 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:09,341 INFO tcrn.tbi.tm.test.Test [main] processing pg_0036.txt
+2016-01-14 16:15:09,451 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:09,925 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:09,946 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:10,226 INFO tcrn.tbi.tm.test.Test [main] processing pg_0037.txt
+2016-01-14 16:15:10,326 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:10,796 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:10,816 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:11,078 INFO tcrn.tbi.tm.test.Test [main] processing pg_0038.txt
+2016-01-14 16:15:11,178 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:11,666 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:11,676 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:11,956 INFO tcrn.tbi.tm.test.Test [main] processing pg_0039.txt
+2016-01-14 16:15:12,056 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:12,536 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:12,557 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:12,828 INFO tcrn.tbi.tm.test.Test [main] processing pg_0040.txt
+2016-01-14 16:15:12,938 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:13,428 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:13,448 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:13,729 INFO tcrn.tbi.tm.test.Test [main] processing pg_0041.txt
+2016-01-14 16:15:13,859 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:14,339 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:14,369 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:14,657 INFO tcrn.tbi.tm.test.Test [main] processing pg_0042.txt
+2016-01-14 16:15:14,772 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:15,287 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:15,307 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:15,597 INFO tcrn.tbi.tm.test.Test [main] processing pg_0043.txt
+2016-01-14 16:15:15,696 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:16,156 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:16,177 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:16,471 INFO tcrn.tbi.tm.test.Test [main] processing pg_0044.txt
+2016-01-14 16:15:16,561 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:17,031 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:17,051 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:17,312 INFO tcrn.tbi.tm.test.Test [main] processing pg_0045.txt
+2016-01-14 16:15:17,409 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:17,879 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:17,889 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:18,129 INFO tcrn.tbi.tm.test.Test [main] processing pg_0046.txt
+2016-01-14 16:15:18,229 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:18,699 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:18,720 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:19,000 INFO tcrn.tbi.tm.test.Test [main] processing pg_0047.txt
+2016-01-14 16:15:19,100 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:19,563 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:19,581 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:19,853 INFO tcrn.tbi.tm.test.Test [main] processing pg_0048.txt
+2016-01-14 16:15:19,963 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:20,433 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:20,463 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:20,843 INFO tcrn.tbi.tm.test.Test [main] processing pg_0049.txt
+2016-01-14 16:15:20,943 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:21,414 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:21,434 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:21,697 INFO tcrn.tbi.tm.test.Test [main] processing pg_0050.txt
+2016-01-14 16:15:21,797 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:22,268 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:22,289 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:22,550 INFO tcrn.tbi.tm.test.Test [main] processing pg_0051.txt
+2016-01-14 16:15:22,640 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:23,110 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:23,130 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:23,402 INFO tcrn.tbi.tm.test.Test [main] processing pg_0052.txt
+2016-01-14 16:15:23,512 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:23,992 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:24,012 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:24,282 INFO tcrn.tbi.tm.test.Test [main] processing pg_0053.txt
+2016-01-14 16:15:24,372 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:24,871 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:24,891 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:25,149 INFO tcrn.tbi.tm.test.Test [main] processing pg_0054.txt
+2016-01-14 16:15:25,248 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:25,744 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:25,754 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:26,015 INFO tcrn.tbi.tm.test.Test [main] processing pg_0055.txt
+2016-01-14 16:15:26,135 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:26,625 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:26,655 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:26,949 INFO tcrn.tbi.tm.test.Test [main] processing pg_0056.txt
+2016-01-14 16:15:27,059 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:27,562 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:27,592 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:27,911 INFO tcrn.tbi.tm.test.Test [main] processing pg_0057.txt
+2016-01-14 16:15:28,001 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:28,491 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:28,512 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:28,773 INFO tcrn.tbi.tm.test.Test [main] processing pg_0058.txt
+2016-01-14 16:15:28,872 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:29,381 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:29,401 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:29,665 INFO tcrn.tbi.tm.test.Test [main] processing pg_0059.txt
+2016-01-14 16:15:29,791 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:30,293 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:30,323 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:30,593 INFO tcrn.tbi.tm.test.Test [main] processing pg_0060.txt
+2016-01-14 16:15:30,684 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:31,171 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:31,181 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:31,451 INFO tcrn.tbi.tm.test.Test [main] processing pg_0061.txt
+2016-01-14 16:15:31,543 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:32,012 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:32,042 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:32,354 INFO tcrn.tbi.tm.test.Test [main] processing pg_0062.txt
+2016-01-14 16:15:32,477 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:32,948 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:32,969 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:33,270 INFO tcrn.tbi.tm.test.Test [main] processing pg_0063.txt
+2016-01-14 16:15:33,370 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:33,860 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:33,870 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:34,150 INFO tcrn.tbi.tm.test.Test [main] processing pg_0064.txt
+2016-01-14 16:15:34,250 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:34,730 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:34,751 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:35,021 INFO tcrn.tbi.tm.test.Test [main] processing pg_0065.txt
+2016-01-14 16:15:35,121 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:35,605 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:35,625 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:35,906 INFO tcrn.tbi.tm.test.Test [main] processing pg_0066.txt
+2016-01-14 16:15:35,996 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:36,514 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:36,524 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:36,809 INFO tcrn.tbi.tm.test.Test [main] processing pg_0067.txt
+2016-01-14 16:15:36,909 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:37,380 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:37,400 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:37,650 INFO tcrn.tbi.tm.test.Test [main] processing pg_0068.txt
+2016-01-14 16:15:37,750 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:38,230 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:38,231 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:38,531 INFO tcrn.tbi.tm.test.Test [main] processing pg_0069.txt
+2016-01-14 16:15:38,620 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:39,084 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:39,104 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:39,355 INFO tcrn.tbi.tm.test.Test [main] processing pg_0070.txt
+2016-01-14 16:15:39,466 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:39,936 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:39,956 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:40,227 INFO tcrn.tbi.tm.test.Test [main] processing pg_0071.txt
+2016-01-14 16:15:40,327 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:40,799 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:40,800 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:41,060 INFO tcrn.tbi.tm.test.Test [main] processing pg_0072.txt
+2016-01-14 16:15:41,170 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:41,640 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:41,660 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:41,931 INFO tcrn.tbi.tm.test.Test [main] processing pg_0073.txt
+2016-01-14 16:15:42,041 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:42,511 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:42,531 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:42,801 INFO tcrn.tbi.tm.test.Test [main] processing pg_0074.txt
+2016-01-14 16:15:42,911 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:43,392 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:43,413 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:43,703 INFO tcrn.tbi.tm.test.Test [main] processing pg_0075.txt
+2016-01-14 16:15:43,813 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:44,275 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:44,295 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:44,566 INFO tcrn.tbi.tm.test.Test [main] processing pg_0076.txt
+2016-01-14 16:15:44,676 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:45,146 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:45,166 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:45,436 INFO tcrn.tbi.tm.test.Test [main] processing pg_0077.txt
+2016-01-14 16:15:45,546 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:46,026 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:46,047 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:46,318 INFO tcrn.tbi.tm.test.Test [main] processing pg_0078.txt
+2016-01-14 16:15:46,419 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:46,915 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:46,925 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:47,186 INFO tcrn.tbi.tm.test.Test [main] processing pg_0079.txt
+2016-01-14 16:15:47,287 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:47,763 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:47,773 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:48,044 INFO tcrn.tbi.tm.test.Test [main] processing pg_0080.txt
+2016-01-14 16:15:48,134 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:48,634 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:48,635 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:48,926 INFO tcrn.tbi.tm.test.Test [main] processing pg_0081.txt
+2016-01-14 16:15:49,031 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:49,522 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:49,552 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:49,843 INFO tcrn.tbi.tm.test.Test [main] processing pg_0082.txt
+2016-01-14 16:15:49,993 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:50,490 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:50,530 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:50,820 INFO tcrn.tbi.tm.test.Test [main] processing pg_0083.txt
+2016-01-14 16:15:50,930 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:51,446 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:51,486 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:51,796 INFO tcrn.tbi.tm.test.Test [main] processing pg_0084.txt
+2016-01-14 16:15:51,898 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:52,371 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:52,402 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:52,762 INFO tcrn.tbi.tm.test.Test [main] processing pg_0085.txt
+2016-01-14 16:15:52,874 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:53,357 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:53,377 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:53,660 INFO tcrn.tbi.tm.test.Test [main] processing pg_0086.txt
+2016-01-14 16:15:53,791 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:54,311 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:54,331 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:54,622 INFO tcrn.tbi.tm.test.Test [main] processing pg_0087.txt
+2016-01-14 16:15:54,802 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:55,333 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:55,403 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:55,766 INFO tcrn.tbi.tm.test.Test [main] processing pg_0088.txt
+2016-01-14 16:15:55,876 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:56,419 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:56,449 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:56,749 INFO tcrn.tbi.tm.test.Test [main] processing pg_0089.txt
+2016-01-14 16:15:56,839 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:57,310 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:57,330 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:57,600 INFO tcrn.tbi.tm.test.Test [main] processing pg_0090.txt
+2016-01-14 16:15:57,700 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:58,176 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:58,197 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:58,468 INFO tcrn.tbi.tm.test.Test [main] processing pg_0091.txt
+2016-01-14 16:15:58,548 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:59,029 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:59,029 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:15:59,270 INFO tcrn.tbi.tm.test.Test [main] processing pg_0092.txt
+2016-01-14 16:15:59,370 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:15:59,865 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:15:59,875 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:16:00,155 INFO tcrn.tbi.tm.test.Test [main] processing pg_0093.txt
+2016-01-14 16:16:00,255 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:16:00,740 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:16:00,751 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:16:01,031 INFO tcrn.tbi.tm.test.Test [main] processing pg_0094.txt
+2016-01-14 16:16:01,131 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:16:01,611 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:16:01,621 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:16:01,892 INFO tcrn.tbi.tm.test.Test [main] processing pg_0095.txt
+2016-01-14 16:16:01,982 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:16:02,485 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:16:02,495 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:16:02,745 INFO tcrn.tbi.tm.test.Test [main] processing pg_0096.txt
+2016-01-14 16:16:02,845 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:16:03,354 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:16:03,408 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:16:03,746 INFO tcrn.tbi.tm.test.Test [main] processing pg_0097.txt
+2016-01-14 16:16:03,840 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:16:04,342 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:16:04,361 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:16:04,658 INFO tcrn.tbi.tm.test.Test [main] processing pg_0098.txt
+2016-01-14 16:16:04,760 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:16:05,279 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:16:05,287 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:16:05,548 INFO tcrn.tbi.tm.test.Test [main] processing pg_0099.txt
+2016-01-14 16:16:05,654 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:16:06,224 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:16:06,244 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks
+2016-01-14 16:16:06,563 INFO tcrn.tbi.tm.test.Test [main] processing pg_0100.txt
+2016-01-14 16:16:06,660 INFO tcrn.tbi.tm.core.PosAnnotator [main] geting pos tags
+2016-01-14 16:16:07,204 INFO tcrn.tbi.tm.core.PosAnnotator [main] loade pos model
+2016-01-14 16:16:07,210 INFO tcrn.tbi.tm.core.ShallowParser [main] getting NP chunks

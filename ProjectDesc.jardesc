@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/Repo_git_source/NLPpipeline.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/NLPpipeline/ProjectDesc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=NLPpipeline/src&lt;data.text.mining.test{Test.java[Test" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <file path="/NLPpipeline/.classpath"/>
+        <javaElement handleIdentifier="=NLPpipeline/resources"/>
+        <javaElement handleIdentifier="=NLPpipeline/conf"/>
+        <javaElement handleIdentifier="=NLPpipeline/src"/>
+        <javaElement handleIdentifier="=NLPpipeline/lib"/>
+        <file path="/NLPpipeline/.project"/>
+    </selectedElements>
+</jardesc>
